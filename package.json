@@ -10,8 +10,7 @@
   "author": "Rebecca Turner <me@re-becca.org> (http://re-becca.org/)",
   "license": "ISC",
   "dependencies": {
-    "inherits": "^2.0.3",
-    "readable-stream": "^2.2.11"
+    "inherits": "^2.0.3"
   },
   "directories": {
     "example": "example"

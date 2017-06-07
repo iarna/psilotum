@@ -1,7 +1,7 @@
 'use strict'
 var fs = require('fs')
 var path = require('path')
-var Readable = require('readable-stream').Readable
+var Readable = require('stream').Readable
 var inherits = require('util').inherits
 
 module.exports = Psilotum
