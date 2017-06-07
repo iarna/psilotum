@@ -1,0 +1,24 @@
+{
+  "name": "psilotum",
+  "version": "1.0.0",
+  "description": "psilotum --------",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rebecca Turner <me@re-becca.org> (http://re-becca.org/)",
+  "license": "ISC",
+  "dependencies": {
+    "inherits": "^2.0.3",
+    "readable-stream": "^2.2.11"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {},
+  "files": [
+    "index.js",
+    "with-symlinks.js"
+  ]
+}
